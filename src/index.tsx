@@ -1,6 +1,13 @@
+/*
+ * @Description: 
+ * @Author: rodchen
+ * @Date: 2021-11-29 23:21:32
+ * @LastEditTime: 2021-11-30 01:26:21
+ * @LastEditors: rodchen
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './styles/index.scss';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 

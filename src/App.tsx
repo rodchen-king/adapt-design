@@ -1,12 +1,19 @@
+/*
+ * @Description: 
+ * @Author: rodchen
+ * @Date: 2021-11-29 23:21:32
+ * @LastEditTime: 2021-11-30 01:34:07
+ * @LastEditors: rodchen
+ */
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h1>h1</h1>
+        <h2>h2</h2>
+
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
