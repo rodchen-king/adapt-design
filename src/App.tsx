@@ -2,11 +2,11 @@
  * @Description: 
  * @Author: rodchen
  * @Date: 2021-11-29 23:21:32
- * @LastEditTime: 2021-11-30 14:51:14
+ * @LastEditTime: 2021-11-30 16:12:34
  * @LastEditors: rodchen
  */
 import React from 'react';
-import Button, { ButtonType, ButtonSize } from './components/Button/buttons'
+import Button, { ButtonType, ButtonSize } from './components/Button/button'
 
 function App() {
   return (
